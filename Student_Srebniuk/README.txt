@@ -1,2 +1,2 @@
 Incorrect merge strategy for the branch
-Correct branch name - greet_Srebniuk2
+Correct branch name - greet_Srebniuk_2
